@@ -1,7 +1,7 @@
 ### Hi there, I'm Jordan McDougall 👋
 
 
-- 🌱 I’m currently learning Nuxt.js (mostly).
+- 🌱 I’m currently learning JavaScript (mostly).
 - 👯 I’m looking to collaborate on Open Source projects.
 - 🤔 I’m looking for help with other content creators on Open Source projects.
 - 📫 How to reach me: @mcdougjo on Twitter
