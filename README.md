@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript (mostly).
 - 👯 I’m looking to collaborate on Open Source projects.
 - 🤔 I’m looking for help with other content creators on Open Source projects.
-- 📫 How to reach me: @mcdougjo on Twitter
+- 📫 How to reach me: @jordanmcd0ugall on Twitter
 - 😄 Pronouns: Him / He
 - ⚡ Fun fact: I am learning Gàidhlig in my spare time
 
