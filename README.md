@@ -1,7 +1,7 @@
 ### Hi there, I'm Jordan McDougall 👋
 
 
-- 🌱 I’m currently learning JavaScript (mostly).
+- 🌱 I’m currently working as a Front End Developer.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 🤔 I’m looking for help with other content creators on Open Source projects.
 - 📫 How to reach me: @jordanmcd0ugall on Twitter
